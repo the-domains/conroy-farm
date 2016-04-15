@@ -1,0 +1,28 @@
+name: Conroy Farm
+favicon: null
+layout_spectrum: 0.37646816461347044
+typography_spectrum: 0.7780926977284253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09207102656364441
+  lightness: 0.9887017898727208
+  saturation: 0.1643937756307423
+  rhythmicContrast: 0.09631411056034267
+purpose: []
